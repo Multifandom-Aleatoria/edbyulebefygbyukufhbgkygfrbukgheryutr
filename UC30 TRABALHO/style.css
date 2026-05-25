@@ -17,6 +17,12 @@ div.DWWM{
   margin: auto;
 }
 
+img.DWWM{
+    widht: 20px;
+    height: 20px;
+    border-radius: 20px;
+}
+
 h1.DWWM{
   color: white;
 }
